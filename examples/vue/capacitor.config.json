@@ -1,0 +1,8 @@
+{
+  "appId": "com.github.bkway.cantactstester",
+  "appName": "ContactsTester",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
