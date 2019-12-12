@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ContactsTester</string>
+    <string name="title_activity_main">ContactsTester</string>
+    <string name="package_name">com.github.bkway.cantactstester</string>
+    <string name="custom_url_scheme">com.github.bkway.cantactstester</string>
+</resources>
